@@ -1,0 +1,14 @@
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Debug\evaluacion_azperez.exe.config
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Debug\evaluacion_azperez.exe
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Debug\evaluacion_azperez.pdb
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\obj\Debug\evaluacion_azperez.csproj.AssemblyReference.cache
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\obj\Debug\evaluacion_azperez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\obj\Debug\evaluacion_azperez.ProjectInstaller.resources
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\obj\Debug\evaluacion_azperez.csproj.GenerateResource.cache
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\obj\Debug\evaluacion_azperez.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\obj\Debug\evaluacion_azperez.exe
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\obj\Debug\evaluacion_azperez.pdb
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\obj\Debug\evaluacion_azperez.frmWindowsService.resources
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\obj\Debug\evaluacion_azperez.csproj.CopyComplete

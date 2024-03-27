@@ -1,0 +1,26 @@
+﻿Instalando ensamblado 'C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.InstallLog
+   assemblypath = C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.exe
+Instalando el servicio evaluacion_azperez...
+El servicio evaluacion_azperez se ha instalado correctamente.
+Creando el origen de EventLog evaluacion_azperez en el registro Application...
+Confirmando ensamblado 'C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.InstallLog
+   assemblypath = C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.exe
+Instalando ensamblado 'C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.InstallLog
+   assemblypath = C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.InstallLog
+   assemblypath = C:\Users\Jerry\source\repos\evaluacion_azperez\evaluacion_azperez\bin\Release\evaluacion_azperez.exe
